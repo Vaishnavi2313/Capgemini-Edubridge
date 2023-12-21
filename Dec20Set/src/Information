@@ -1,0 +1,27 @@
+java.util.*
+
+Set ->interface
+
+Set interface implemented by HashSet, LinkedHashSet, TreeSet
+Duplicates are not allowed in any of the class HashSet, treeSet,LinkedHashset
+HashSet
+
+>does not maintains the order
+
+>it will take single value
+
+ 
+
+LinkedHast
+
+>maintains the order
+
+>single null is allowed
+
+ 
+
+TreeSet
+
+>Elements(primitive and wrapper classes) are sorted in ascending order
+
+>It will not take the null value
